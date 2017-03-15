@@ -1,7 +1,12 @@
 system.out.println("Hello Word!") // Para Traduzir!
-<html>
+<html lang="pt-br">
+<head>Testando</head>
+<meta charset="utf-8">
+<body>
 	<?php 
 
 	  echo "Instrutor Isaac e moral do git"	
+
 	?>
+</body>
 </html>
