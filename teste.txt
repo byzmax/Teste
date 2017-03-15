@@ -1,7 +1,1 @@
-system.out.println("Hello Word!") // Para Traduzir!
-<html>
-	<?php 
-
-	  echo "Instrutor Isaac e moral do git"	
-	?>
-</html>
+versao 1.0 esta em ordem!
